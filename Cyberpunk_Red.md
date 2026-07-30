@@ -28,7 +28,7 @@ merchandise sold by partners.
 
 ## Interface RED (DLC Compilations)
 
-- [ ] Interface RED volume 1 (CR3041) — November 2021
+- [x] Interface RED volume 1 (CR3041) — November 2021
 - [ ] Interface RED volume 2 (CR3065) — March 2023
 - [ ] Interface RED volume 3 (CR3081) — February 2024
 - [ ] Interface RED volume 4 (CR3111) — May 2025
