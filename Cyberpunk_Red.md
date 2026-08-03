@@ -16,14 +16,14 @@ merchandise sold by partners.
 
 ## Sourcebooks & Supplements
 
-- [ ] Black Chrome (CR3061) — February 2023
-- [ ] Danger Gal Dossier (CR3071) — August 2023
+- [x] Black Chrome (CR3061) — February 2023
+- [x] Danger Gal Dossier (CR3071) — August 2023
 - [ ] Single Player Mode (CR3121) — September 2025
-- [ ] Night City 2045 (CR3141) — April 2026 digital / June 2026 physical
+- [x] Night City 2045 (CR3141) — April 2026 digital / June 2026 physical
 
 ## Adventure & Mission Books
 
-- [ ] Tales of the RED: Street Stories (CR3051) — August 2022
+- [x] Tales of the RED: Street Stories (CR3051) — August 2022
 - [ ] Tales of the RED: Hope Reborn (CR3091) — October 2024
 
 ## Interface RED (DLC Compilations)
