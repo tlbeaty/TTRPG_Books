@@ -13,8 +13,8 @@
 - [x] Xanathar's Guide to Everything (2017) — expanded subclasses, spells, and DM tools
 - [ ] Mordenkainen's Tome of Foes (2018) — lore and stat blocks for powerful extraplanar enemies
 - [ ] Guildmasters' Guide to Ravnica (2018) — Magic: The Gathering crossover setting set in the city of Ravnica
-- [ ] Acquisitions Incorporated (2019) — comedic corporate adventuring setting based on the Penny Arcade podcast
-- [ ] Eberron: Rising from the Last War (2019) — pulp noir fantasy setting with magitech and intrigue
+- [x] Acquisitions Incorporated (2019) — comedic corporate adventuring setting based on the Penny Arcade podcast
+- [x] Eberron: Rising from the Last War (2019) — pulp noir fantasy setting with magitech and intrigue
 - [ ] Explorer's Guide to Wildemount (2020) — Critical Role's setting, featuring new subclasses and Dunamancy magic
 - [ ] Mythic Odysseys of Theros (2020) — Magic: The Gathering crossover set in a world of Greek myth
 - [x] Tasha's Cauldron of Everything (2020) — major rules expansion with new subclasses, spells, and optional rules
@@ -39,13 +39,14 @@
 - [x] Tales from the Yawning Portal (2017) — anthology of seven classic dungeon adventures updated for 5e
 - [ ] Tomb of Annihilation (2017) — race against a death curse in the jungle continent of Chult; levels 1–11
 - [ ] Waterdeep: Dragon Heist (2018) — urban heist adventure in the city of Waterdeep; levels 1–5
-- [ ] Waterdeep: Dungeon of the Mad Mage (2018) — explore Undermountain, the largest dungeon in D&D history; levels 5–20
+- [x] Waterdeep: Dungeon of the Mad Mage (2018) — explore Undermountain, the largest dungeon in D&D history; levels 5–20
 - [ ] Ghosts of Saltmarsh (2019) — nautical adventures anthology set in and around the town of Saltmarsh; levels 1–12
 - [ ] Baldur's Gate: Descent into Avernus (2019) — save Baldur's Gate by venturing into the first layer of Hell; levels 1–13
-- [ ] Icewind Dale: Rime of the Frostmaiden (2020) — survival horror in the frozen north; levels 1–12
+- [x] Icewind Dale: Rime of the Frostmaiden (2020) — survival horror in the frozen north; levels 1–12
 - [ ] Candlekeep Mysteries (2021) — anthology of 17 mystery adventures set in and around a great library; levels 1–16
 - [ ] The Wild Beyond the Witchlight (2021) — whimsical fairy tale adventure in the Feywild; levels 1–8
 - [ ] Strixhaven: A Curriculum of Chaos (2021) — Magic: The Gathering crossover set at a magical university; levels 1–10
+- [x] Critical Role: Call of the Netherdeep (2022) - first hardcover adventure set in Exandria, running from Xhorhas to Ank'Harel and into the Netherdeep; introduces a rival NPC party and underwater adventuring rules; levels 3-12
 - [ ] Journeys through the Radiant Citadel (2022) — anthology of 13 adventures inspired by world cultures; levels 1–14
 - [ ] Keys from the Golden Vault (2023) — anthology of 13 heist adventures; levels 1–11
 - [ ] Phandelver and Below: The Shattered Obelisk (2023) — expanded version of Lost Mine of Phandelver with new content; levels 1–12
